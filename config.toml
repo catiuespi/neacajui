@@ -1,23 +1,23 @@
 baseURL = "http://neacajui.com.br"
 languageCode = "pt-BR"
-title = "NeaCajuí - Empresa júnior de Agricultura"
+title = "NeaCajuí - Empresa júnior"
 author = "https://www.catiuespi.com/"
 theme = "terrassa"
 enableRobotsTXT = true
 paginate = 10
 
 [params]
-    description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
+    description = "NeaCajuí - Empresa júnior | Parnaíba - PI"
     favicon = "favicon.ico"
-    logo = ""
+    logo = "neacajui-logo.jpg"
 
 [params.hero]
-    textColor = "" # Empty for default color
+    textColor = "#038A24" # Empty for default color
 
 [params.cta] # Call To Action
     show = true
     cta = "Contato"
-    link = "contact" # Relative URL
+    link = "contato" # Relative URL
 
 [params.separator] # Separators between sections on the home page
     show = false
@@ -48,10 +48,10 @@ paginate = 10
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = "example@gmail.com"
-    phone = "xxx xxx xxx"
+    email = "examplodeemail@gmail.com"
+    phone = "(XX) X XXXX-XXXX"
     skype = ""
-    address = "419 Creek St. Revere, MA 02151"
+    address = "Parnaíba - Piauí"
 
 [params.social]
     twitter = "https://twitter.com/john"
@@ -68,7 +68,7 @@ paginate = 10
     "500px" = ""
 
 [params.copy] # Copyright
-    copy = "" # Empty for default content
+    copy = "CATI - Centro Acadêmico de Tecnologia e Inovação" # Empty for default content
 
 [privacy]
     [privacy.googleAnalytics]
@@ -92,27 +92,3 @@ paginate = 10
 
 [params.languageSwitcher]
     show = true
-
-[languages]
-    [languages.en]
-        languageName = "en"
-        weight = 1
-        contentDir = "content/en"
-      [languages.de]
-        languageName = "de"
-        weight = 2
-        contentDir = "content/de"
-        title = "Das ist der deutsche Titel"
-        description = "Das ist die deutsche Beschreibung"
-        [languages.de.params]
-          [languages.de.params.form] # Translate contact form fields
-            inputNameLabel = "Name"
-            inputNamePlaceholder = "Dein Name"
-            inputEmailLabel = "E-mail"
-            inputEmailPlaceholder = "Deine E-Mail-Adresse"
-            inputMsgLabel = "Schreib etwas"
-            inputSubmitValue = "Abschicken"
-            [languages.de.params.cta] # Translate Call To Action
-                show = true
-                cta = "Kontakt"
-                link = "de/kontakt/" # Relative URL
