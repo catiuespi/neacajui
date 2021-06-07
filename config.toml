@@ -31,15 +31,15 @@ paginate = 10
     action = "https://formspree.io/your@email.com"
     method = "POST"
     inputNameName = "name"
-    inputNameLabel = "Name"
-    inputNamePlaceholder = "Your name"
+    inputNameLabel = "Nome"
+    inputNamePlaceholder = "Seu Nome"
     inputEmailName = "email"
     inputEmailLabel = "Email"
-    inputEmailPlaceholder = "Your email"
+    inputEmailPlaceholder = "Insira seu email"
     inputMsgName = "message"
-    inputMsgLabel = "Write something"
+    inputMsgLabel = "Qual sua mensagem?"
     inputMsgLength = 750
-    inputSubmitValue = "Send"
+    inputSubmitValue = "Enviar"
 
 [params.posts]
     showAuthor = true
