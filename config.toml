@@ -8,7 +8,7 @@ paginate = 10
 
 [params]
     description = "NeaCajuí - Empresa júnior | Parnaíba - PI"
-    favicon = "favicon.ico"
+    favicon = "neacajui-logo.jpg"
     logo = "neacajui-logo.jpg"
 
 [params.hero]
