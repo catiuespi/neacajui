@@ -17,7 +17,7 @@ paginate = 10
 [params.cta] # Call To Action
     show = true
     cta = "Contato"
-    link = "contato" # Relative URL
+    link = "contact" # Relative URL
 
 [params.separator] # Separators between sections on the home page
     show = false
