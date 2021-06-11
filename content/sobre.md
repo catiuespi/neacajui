@@ -2,7 +2,7 @@
 title: "Sobre"
 description: ""
 images: []
-draft: true
+draft: false
 menu: main
 weight: 4
 ---
