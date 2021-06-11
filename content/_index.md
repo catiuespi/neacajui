@@ -2,7 +2,7 @@
 title: "Home"
 description: "Empresa Júnior"
 images: [neacajui-logo.jpg]
-draft: true
+draft: false
 menu: main
 weight: 1
 ---
