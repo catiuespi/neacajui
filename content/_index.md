@@ -7,7 +7,7 @@ menu: main
 weight: 1
 ---
 
-NeaCajuí - Empresa Júnior
+NeaCajuí - Núcleo de Estudos Pesquisa e Extensão em Agronomia
 ===============
 
 Lorem Ipsum Dolor sit amet Lorem Ipsum Dolor sit amet Lorem Ipsum Dolor sit amet 
