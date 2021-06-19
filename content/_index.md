@@ -7,7 +7,7 @@ menu: main
 weight: 1
 ---
 
-NeaCajuí - Núcleo de Estudos Pesquisa e Extensão em Agronomia
+NeaCajuí - Núcleo de Estudos Pesquisa e Extensão em Agroecologia
 ===============
 
 Lorem Ipsum Dolor sit amet Lorem Ipsum Dolor sit amet Lorem Ipsum Dolor sit amet 
