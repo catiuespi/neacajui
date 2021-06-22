@@ -1,3 +1,6 @@
 [submodule "themes/theme-therrasa"]
 	path = themes/theme-therrasa
 	url = https://github.com/catiuespi/theme-therrasa
+[submodule "themes/terrassa"]
+	path = themes/terrassa
+	url = https://github.com/catiuespi/terrassa
