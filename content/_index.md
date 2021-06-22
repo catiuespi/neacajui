@@ -1,13 +1,15 @@
 ---
 title: "Home"
 description: "Empresa Júnior"
-images: [neacajui-logo.jpg]
+images: [background.jpg]
 draft: false
 menu: main
 weight: 1
 ---
 
-NeaCajuí - Empresa Júnior
+NeaCajuí
 ===============
 
-Lorem Ipsum Dolor sit amet Lorem Ipsum Dolor sit amet Lorem Ipsum Dolor sit amet 
+
+Núcleo de Estudos, Pesquisa e Extensão em Agroecologia.
+
